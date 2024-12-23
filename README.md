@@ -26,3 +26,5 @@ This will start the training process. Ensure that your environment is set up wit
 ---
 
 Make sure to replace `test.py` with the actual name of your script if it's different, and feel free to add any further details (like dependencies) if needed!
+
+This version includes the clarification that the experimental results mentioned in the paper are also included in the ZIP file.
